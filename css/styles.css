@@ -1,0 +1,237 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #ffffff;
+    color: #434455;
+}
+
+ul {
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-left: 0;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
+.container {
+    width: 320px;
+    padding: 0 16px;
+    margin: 0 auto;
+}
+
+/* =========================HEADER-START==================== */
+/* .header {} */
+
+/* .navigation {} */
+
+/* .navigation-link {} */
+
+/* .navigation-span {} */
+
+/* .header-list {} */
+
+/* .header-item {} */
+
+/* .header-link {} */
+
+/* .contacts {} */
+
+/* .contacts-list {} */
+
+/* .contacts-item {} */
+
+/* .contacts-link {} */
+/* ======================HEADER-END=============================== */
+
+/* =========================HERO-START================================ */
+
+/* .hero {} */
+
+/* .hero-title {} */
+
+/* .hero-btn {} */
+
+/* .hero-text-btn {} */
+
+/* ==============================HERO-END============================= */
+
+/* =========================INFORMATION-START========================= */
+
+/* .information {} */
+
+/* .visually-hidden {} */
+
+/* .information-list {} */
+
+/* .information-item {} */
+
+/* .information-item-title {} */
+
+/* .information-item-text {} */
+
+/* ==========================INFORMATION-END============================ */
+
+/* ==========================TEAM-START====================== */
+
+/* .team-title {} */
+
+/* .team-list {} */
+
+/* .team-item {} */
+
+/* .team-img {} */
+
+/* .team-name {} */
+
+/* .team-name-title {} */
+
+/* .team-title-text {} */
+
+/* .team-soc-list {} */
+
+/* .team-soc-item {} */
+
+/* .team-soc-link {} */
+
+/* .team-soc-icons {} */
+
+/* ==========================TEAM-END========================= */
+
+/* ========================PORTFOLIO-START==================== */
+
+/* .portfolio {} */
+
+/* .portfolio-title {} */
+
+/* .portfolio-list {} */
+
+/* .portfolio-item {} */
+
+/* .portfolio-carts {} */
+
+/* .portfolio-carts-img {} */
+
+/* .portfolio-carts-text {} */
+
+/* .portfolio-carts-description {} */
+
+/* .portfolio-carts-title {} */
+
+/* .carts-description-text {} */
+
+/* ========================PORTFOLIO-END======================= */
+
+/* ========================FOOTER-START======================== */
+
+/* .footer {} */
+
+/* .footer-top {} */
+
+/* .footer-top-link {} */
+
+/* .footer-top-span {} */
+
+/* .footer-top-text {} */
+
+/* .footer-soc {} */
+
+/* .footer-soc-title {} */
+
+/* .footer-soc-list {} */
+
+/* .footer-soc-item {} */
+
+/* .footer-soc-link {} */
+
+/* .footer-soc-icons {} */
+
+/* .subscribe {} */
+
+/* .subscribe-title {} */
+
+/* .subscribe-form {} */
+
+/* .subscribe-label {} */
+
+/* .subscribe-label-input {} */
+
+/* .subscribe-btn {} */
+
+/* .subscribe-btn-icon {} */
+
+/* ========================FOOTER-END========================== */
+
+/* ========================MODAL-START========================= */
+
+/* .backdrop {} */
+
+/* .modal {} */
+
+/* .close-btn {} */
+
+/* .close-icon {} */
+
+/* .close-icon-img {} */
+
+/* .modal-title {} */
+
+/* .modal-form {} */
+
+/* .modal-field {} */
+
+/* .modal-field-label {} */
+
+/* .modal-field-wrap {} */
+
+/* .modal-wrap-input {} */
+
+/* .modal-wrap-icons {} */
+
+/* .name {} */
+
+/* .coment-textarea {} */
+
+/* .checkbox-label {} */
+
+/* .checkbox-wrap {} */
+
+/* .checkbox-icon {} */
+
+/* .check-link {} */
+
+/* .modal-btn-submit {} */
+
+/* ========================MODAL-END=========================== */
