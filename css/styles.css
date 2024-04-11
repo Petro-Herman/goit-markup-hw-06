@@ -179,7 +179,7 @@ p {
     background-color: transparent;
 }
 
-.mob-nav {}
+/* .mob-nav {} */
 
 .mob-header-list {
     margin-top: 72px;
@@ -200,11 +200,11 @@ p {
     color: #404bbf;
 }
 
-.mob-header-item {}
+/* .mob-header-item {} */
 
-.header-link {}
+/* .header-link {} */
 
-.studio {}
+/* .studio {} */
 
 .mob-contacts {
     margin-bottom: 48px;
@@ -216,7 +216,7 @@ p {
     gap: 24px;
 }
 
-.mob-contacts-item {}
+/* .mob-contacts-item {} */
 
 .mob-contacts-link {
     font-weight: 500;
